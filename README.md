@@ -23,10 +23,9 @@
 
 <!-- GithubStats -->
 <div style="text-align: left;">
-  <h3>Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigocout0&show_icons=true&theme=gotham&hide_border=true" alt="Rodrigo's GitHub stats" />
+  <h3 style="margin: 0;">Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigocout0&show_icons=true&theme=gotham&hide_border=true&hide=contribs,prs&line_height=20&include_all_commits=true" alt="Rodrigo's GitHub stats" style="display: block;" />
 </div>
-
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
