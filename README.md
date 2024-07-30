@@ -44,4 +44,4 @@
   </div>
 
 <!-- Github Contribution Grid Snake -->
-(https://github.com/rodrigocout0/rodrigocout0/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/rodrigocout0/rodrigocout0/output/github-contribution-grid-snake.svg" />
