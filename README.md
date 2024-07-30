@@ -23,8 +23,7 @@
 
 <!-- GithubStats -->
 <div style="text-align: left;">
-  <h3>Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigocout0&show_icons=true&theme=gotham&hide_border=true" alt="Rodrigo's GitHub stats" style="display: block; margin-left: 0;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigocout0&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" style="display: block; margin-left: 0;" />
 </div>
 
 ## 🔥 Skills
