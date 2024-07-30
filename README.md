@@ -22,7 +22,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigocout0/)
 
 <!-- GithubStats -->
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigocout0&show_icons=true&theme=gotham)
+<div style="text-align: left;">
+  <h3>Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigocout0&show_icons=true&theme=gotham&hide_border=true" alt="Rodrigo's GitHub stats" style="display: block; margin-left: 0;" />
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
