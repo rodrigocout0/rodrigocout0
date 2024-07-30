@@ -44,7 +44,4 @@
   </div>
 
 <!-- Github Contribution Grid Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
-</picture>
+(https://github.com/rodrigocou70/rodrigocout0/blob/output/github-contribution-grid-snake.svg)
